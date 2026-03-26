@@ -35,7 +35,9 @@ Then in Manage Vaults (which should be somewhere in the menu bottom left) choose
 
 11. [[Scripting]]
 
-12. [[Local Databases]]
+12. [[Designing]]
+
+13. [[Local Databases]]
 
 
 
