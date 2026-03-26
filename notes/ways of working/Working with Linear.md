@@ -42,4 +42,8 @@ So now, if I have an idea of a feature I want to build I will:
 
 And so on - refinement into sub tickets - and then implementing in a fresh context.
 
-For big plans or things you just want to back-and-forth on, it's usually better to just do it with Obsidian.  Ask CC to plan something out, and write it to your notes under a `/plans` folder.  Then you can work with it to refine it.  Then you could say "Make a ticket for this".
+Claude can update the tickets so if it's gated at "Ready for Review" and assigned to me, I don't have to manually change that to "Ready for Refinement" and assign to Claude, I can just say `I approve ticket ABC-123` and it'll transition it.
+
+For big plans or things you just want to back-and-forth on, it's usually better to just do it with .md plan files in Obsidian.  Ask CC to plan something out, and write it to your notes under a `/plans` folder.  Then you can work with it to refine it, see it update, ask for changes, and so on.  Then you can say `Make a ticket for this, put it in ToDo, and assign to yourself ready for refinement`.
+
+It's up to you what the steps are of course but this is away of having defined steps in a development process so you're not one-shotting big features and ending up with slop.

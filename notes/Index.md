@@ -35,9 +35,11 @@ Then in Manage Vaults (which should be somewhere in the menu bottom left) choose
 
 11. [[Scripting]]
 
-12. [[Designing]]
+12. [[Code Review]]
 
-13. [[Local Databases]]
+13. [[Designing]]
+
+14. [[Local Databases]]
 
 
 
