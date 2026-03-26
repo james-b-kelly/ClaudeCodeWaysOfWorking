@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Read me.md",
+                "file": "Index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Read me"
+              "title": "Index"
             }
           }
         ],
@@ -202,7 +202,7 @@
   "lastOpenFiles": [
     "ways of working/Logs.md",
     "ways of working/Local Databases.md",
-    "Read me.md",
+    "Index.md",
     "ways of working/Scripting.md",
     "ways of working/Skills.md",
     "ways of working/MCP.md",
