@@ -1,0 +1,5 @@
+- Claude Code
+- [Linear](https://linear.app/)
+	- a lightweight ticketing platform.  Free up to 100 tickets (and you can delet them beyond that.)
+- [Obsidian](https://obsidian.md/download)
+	- a notes app for reading/editing `.md` files.  Offline and free
